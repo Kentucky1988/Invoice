@@ -1,0 +1,14 @@
+﻿<Window x:Class="Накладние.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"       
+        xmlns:local="clr-namespace:Накладние"     
+        Title="Накладные" Height="350" Width="500">
+
+    <Grid Style="{StaticResource StylesGrid}">
+
+        <Button Margin="150,133,150,130" 
+                Style="{StaticResource StylesButton}"
+                Content="Создать накладные"              
+                Click="Button_Click"/>
+    </Grid>
+</Window>

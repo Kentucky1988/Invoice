@@ -1,0 +1,36 @@
+C:\Users\Дима\Desktop\Накладние\Накладние\bin\Release\Накладние.exe.config
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние.csproj.ResolveComReference.cache
+C:\Users\Дима\Desktop\Накладние\Накладние\bin\Release\Накладние.exe
+C:\Users\Дима\Desktop\Накладние\Накладние\bin\Release\Накладние.pdb
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\MainWindow.g.cs
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\App.g.cs
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние_MarkupCompile.cache
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние_MarkupCompile.lref
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\MainWindow.baml
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние.g.resources
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние.Properties.Resources.resources
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние.exe
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Накладние.pdb
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Progres.g.cs
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\Progres.baml
+C:\Users\Дима\Desktop\Накладние\Накладние\obj\Release\App.baml
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\bin\Release\Накладние.exe.config
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние.csproj.ResolveComReference.cache
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние.exe
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние.pdb
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\bin\Release\Накладние.exe
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\bin\Release\Накладние.pdb
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\MainWindow.g.cs
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Progres.g.cs
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\App.g.cs
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние_MarkupCompile.cache
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние_MarkupCompile.lref
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\App.baml
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\MainWindow.baml
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Progres.baml
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние.g.resources
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние.Properties.Resources.resources
+C:\Users\Дима\Desktop\Новая папка\Аптека\Код\Накладние\obj\Release\Накладние.csproj.GenerateResource.Cache
